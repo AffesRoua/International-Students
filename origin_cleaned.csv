@@ -1,0 +1,1001 @@
+year,origin_region,origin,students
+2000,"Africa, Subsaharan","Africa, Subsaharan, Unspecified",Graduate
+2000,"Africa, Subsaharan","Africa, Subsaharan, Unspecified",Other
+2000,"Africa, Subsaharan","Africa, Subsaharan, Unspecified",Undergraduate
+2000,Asia,"Asia, Unspecified",Graduate
+2000,Asia,"Asia, Unspecified",Other
+2000,Asia,"Asia, Unspecified",Undergraduate
+2000,Caribbean,Anguilla,Graduate
+2000,Caribbean,Anguilla,Other
+2000,Caribbean,Anguilla,Undergraduate
+2000,Caribbean,"Antigua and Barbuda",Graduate
+2000,Caribbean,"Antigua and Barbuda",Other
+2000,Caribbean,"Antigua and Barbuda",Undergraduate
+2000,Caribbean,Aruba,Graduate
+2000,Caribbean,Aruba,Other
+2000,Caribbean,Aruba,Undergraduate
+2000,Caribbean,Bahamas,Graduate
+2000,Caribbean,Bahamas,Other
+2000,Caribbean,Bahamas,Undergraduate
+2000,Caribbean,Barbados,Graduate
+2000,Caribbean,Barbados,Other
+2000,Caribbean,Barbados,Undergraduate
+2000,Caribbean,Bermuda,Graduate
+2000,Caribbean,Bermuda,Other
+2000,Caribbean,Bermuda,Undergraduate
+2000,Caribbean,"British Virgin Islands",Graduate
+2000,Caribbean,"British Virgin Islands",Other
+2000,Caribbean,"British Virgin Islands",Undergraduate
+2000,Caribbean,"Caribbean, Unspecified",Graduate
+2000,Caribbean,"Caribbean, Unspecified",Other
+2000,Caribbean,"Caribbean, Unspecified",Undergraduate
+2000,Caribbean,"Cayman Islands",Graduate
+2000,Caribbean,"Cayman Islands",Other
+2000,Caribbean,"Cayman Islands",Undergraduate
+2000,Caribbean,Cuba,Graduate
+2000,Caribbean,Cuba,Other
+2000,Caribbean,Cuba,Undergraduate
+2000,Caribbean,Dominica,Graduate
+2000,Caribbean,Dominica,Other
+2000,Caribbean,Dominica,Undergraduate
+2000,Caribbean,"Dominican Republic",Graduate
+2000,Caribbean,"Dominican Republic",Other
+2000,Caribbean,"Dominican Republic",Undergraduate
+2000,Caribbean,Grenada,Graduate
+2000,Caribbean,Grenada,Other
+2000,Caribbean,Grenada,Undergraduate
+2000,Caribbean,Guadeloupe,Graduate
+2000,Caribbean,Guadeloupe,Other
+2000,Caribbean,Guadeloupe,Undergraduate
+2000,Caribbean,Haiti,Graduate
+2000,Caribbean,Haiti,Other
+2000,Caribbean,Haiti,Undergraduate
+2000,Caribbean,Jamaica,Graduate
+2000,Caribbean,Jamaica,Other
+2000,Caribbean,Jamaica,Undergraduate
+2000,Caribbean,Martinique,Graduate
+2000,Caribbean,Martinique,Other
+2000,Caribbean,Martinique,Undergraduate
+2000,Caribbean,Montserrat,Graduate
+2000,Caribbean,Montserrat,Other
+2000,Caribbean,Montserrat,Undergraduate
+2000,Caribbean,"Netherlands Antilles",Graduate
+2000,Caribbean,"Netherlands Antilles",Other
+2000,Caribbean,"Netherlands Antilles",Undergraduate
+2000,Caribbean,"St. Kitts and Nevis",Graduate
+2000,Caribbean,"St. Kitts and Nevis",Other
+2000,Caribbean,"St. Kitts and Nevis",Undergraduate
+2000,Caribbean,"St. Lucia",Graduate
+2000,Caribbean,"St. Lucia",Other
+2000,Caribbean,"St. Lucia",Undergraduate
+2000,Caribbean,"St. Vincent and the Grenadines",Graduate
+2000,Caribbean,"St. Vincent and the Grenadines",Other
+2000,Caribbean,"St. Vincent and the Grenadines",Undergraduate
+2000,Caribbean,"Trinidad and Tobago",Graduate
+2000,Caribbean,"Trinidad and Tobago",Other
+2000,Caribbean,"Trinidad and Tobago",Undergraduate
+2000,Caribbean,"Turks and Caicos",Graduate
+2000,Caribbean,"Turks and Caicos",Other
+2000,Caribbean,"Turks and Caicos",Undergraduate
+2000,"Central Africa",Cameroon,Graduate
+2000,"Central Africa",Cameroon,Other
+2000,"Central Africa",Cameroon,Undergraduate
+2000,"Central Africa","Central Africa, Unspecified",Graduate
+2000,"Central Africa","Central Africa, Unspecified",Other
+2000,"Central Africa","Central Africa, Unspecified",Undergraduate
+2000,"Central Africa","Central African Republic",Graduate
+2000,"Central Africa","Central African Republic",Other
+2000,"Central Africa","Central African Republic",Undergraduate
+2000,"Central Africa",Chad,Graduate
+2000,"Central Africa",Chad,Other
+2000,"Central Africa",Chad,Undergraduate
+2000,"Central Africa","Congo, Dem. Rep. of the (Kinshasa)",Graduate
+2000,"Central Africa","Congo, Dem. Rep. of the (Kinshasa)",Other
+2000,"Central Africa","Congo, Dem. Rep. of the (Kinshasa)",Undergraduate
+2000,"Central Africa","Congo, Republic of the (Brazzaville)",Graduate
+2000,"Central Africa","Congo, Republic of the (Brazzaville)",Other
+2000,"Central Africa","Congo, Republic of the (Brazzaville)",Undergraduate
+2000,"Central Africa","Equatorial Guinea",Graduate
+2000,"Central Africa","Equatorial Guinea",Other
+2000,"Central Africa","Equatorial Guinea",Undergraduate
+2000,"Central Africa",Gabon,Graduate
+2000,"Central Africa",Gabon,Other
+2000,"Central Africa",Gabon,Undergraduate
+2000,"Central Africa","SÃ£o TomÃ© and PrÃ­ncipe",Graduate
+2000,"Central Africa","SÃ£o TomÃ© and PrÃ­ncipe",Other
+2000,"Central Africa","SÃ£o TomÃ© and PrÃ­ncipe",Undergraduate
+2000,"East Africa",Burundi,Graduate
+2000,"East Africa",Burundi,Other
+2000,"East Africa",Burundi,Undergraduate
+2000,"East Africa",Djibouti,Graduate
+2000,"East Africa",Djibouti,Other
+2000,"East Africa",Djibouti,Undergraduate
+2000,"East Africa","East Africa, Unspecified",Graduate
+2000,"East Africa","East Africa, Unspecified",Other
+2000,"East Africa","East Africa, Unspecified",Undergraduate
+2000,"East Africa",Eritrea,Graduate
+2000,"East Africa",Eritrea,Other
+2000,"East Africa",Eritrea,Undergraduate
+2000,"East Africa",Ethiopia,Graduate
+2000,"East Africa",Ethiopia,Other
+2000,"East Africa",Ethiopia,Undergraduate
+2000,"East Africa",Kenya,Graduate
+2000,"East Africa",Kenya,Other
+2000,"East Africa",Kenya,Undergraduate
+2000,"East Africa",Rwanda,Graduate
+2000,"East Africa",Rwanda,Other
+2000,"East Africa",Rwanda,Undergraduate
+2000,"East Africa",Seychelles,Graduate
+2000,"East Africa",Seychelles,Other
+2000,"East Africa",Seychelles,Undergraduate
+2000,"East Africa",Somalia,Graduate
+2000,"East Africa",Somalia,Other
+2000,"East Africa",Somalia,Undergraduate
+2000,"East Africa",Sudan,Graduate
+2000,"East Africa",Sudan,Other
+2000,"East Africa",Sudan,Undergraduate
+2000,"East Africa",Tanzania,Graduate
+2000,"East Africa",Tanzania,Other
+2000,"East Africa",Tanzania,Undergraduate
+2000,"East Africa",Uganda,Graduate
+2000,"East Africa",Uganda,Other
+2000,"East Africa",Uganda,Undergraduate
+2000,"East Asia",China,Graduate
+2000,"East Asia",China,Other
+2000,"East Asia",China,Undergraduate
+2000,"East Asia","East Asia, Unspecified",Graduate
+2000,"East Asia","East Asia, Unspecified",Other
+2000,"East Asia","East Asia, Unspecified",Undergraduate
+2000,"East Asia","Hong Kong",Graduate
+2000,"East Asia","Hong Kong",Other
+2000,"East Asia","Hong Kong",Undergraduate
+2000,"East Asia",Japan,Graduate
+2000,"East Asia",Japan,Other
+2000,"East Asia",Japan,Undergraduate
+2000,"East Asia",Macau,Graduate
+2000,"East Asia",Macau,Other
+2000,"East Asia",Macau,Undergraduate
+2000,"East Asia",Mongolia,Graduate
+2000,"East Asia",Mongolia,Other
+2000,"East Asia",Mongolia,Undergraduate
+2000,"East Asia","North Korea",Graduate
+2000,"East Asia","North Korea",Other
+2000,"East Asia","North Korea",Undergraduate
+2000,"East Asia","South Korea",Graduate
+2000,"East Asia","South Korea",Other
+2000,"East Asia","South Korea",Undergraduate
+2000,"East Asia",Taiwan,Graduate
+2000,"East Asia",Taiwan,Other
+2000,"East Asia",Taiwan,Undergraduate
+2000,Europe,Albania,Graduate
+2000,Europe,Albania,Other
+2000,Europe,Albania,Undergraduate
+2000,Europe,Andorra,Graduate
+2000,Europe,Andorra,Other
+2000,Europe,Andorra,Undergraduate
+2000,Europe,Armenia,Graduate
+2000,Europe,Armenia,Other
+2000,Europe,Armenia,Undergraduate
+2000,Europe,Austria,Graduate
+2000,Europe,Austria,Other
+2000,Europe,Austria,Undergraduate
+2000,Europe,Azerbaijan,Graduate
+2000,Europe,Azerbaijan,Other
+2000,Europe,Azerbaijan,Undergraduate
+2000,Europe,Belarus,Graduate
+2000,Europe,Belarus,Other
+2000,Europe,Belarus,Undergraduate
+2000,Europe,Belgium,Graduate
+2000,Europe,Belgium,Other
+2000,Europe,Belgium,Undergraduate
+2000,Europe,"Bosnia and Herzegovina",Graduate
+2000,Europe,"Bosnia and Herzegovina",Other
+2000,Europe,"Bosnia and Herzegovina",Undergraduate
+2000,Europe,Bulgaria,Graduate
+2000,Europe,Bulgaria,Other
+2000,Europe,Bulgaria,Undergraduate
+2000,Europe,Croatia,Graduate
+2000,Europe,Croatia,Other
+2000,Europe,Croatia,Undergraduate
+2000,Europe,Cyprus,Graduate
+2000,Europe,Cyprus,Other
+2000,Europe,Cyprus,Undergraduate
+2000,Europe,"Czechia/Czech Republic",Graduate
+2000,Europe,"Czechia/Czech Republic",Other
+2000,Europe,"Czechia/Czech Republic",Undergraduate
+2000,Europe,"Czechoslovakia, Former",Graduate
+2000,Europe,"Czechoslovakia, Former",Other
+2000,Europe,"Czechoslovakia, Former",Undergraduate
+2000,Europe,Denmark,Graduate
+2000,Europe,Denmark,Other
+2000,Europe,Denmark,Undergraduate
+2000,Europe,Estonia,Graduate
+2000,Europe,Estonia,Other
+2000,Europe,Estonia,Undergraduate
+2000,Europe,"Europe, Unspecified",Graduate
+2000,Europe,"Europe, Unspecified",Other
+2000,Europe,"Europe, Unspecified",Undergraduate
+2000,Europe,Finland,Graduate
+2000,Europe,Finland,Other
+2000,Europe,Finland,Undergraduate
+2000,Europe,France,Graduate
+2000,Europe,France,Other
+2000,Europe,France,Undergraduate
+2000,Europe,Georgia,Graduate
+2000,Europe,Georgia,Other
+2000,Europe,Georgia,Undergraduate
+2000,Europe,Germany,Graduate
+2000,Europe,Germany,Other
+2000,Europe,Germany,Undergraduate
+2000,Europe,Gibraltar,Graduate
+2000,Europe,Gibraltar,Other
+2000,Europe,Gibraltar,Undergraduate
+2000,Europe,Greece,Graduate
+2000,Europe,Greece,Other
+2000,Europe,Greece,Undergraduate
+2000,Europe,"Holy See",Graduate
+2000,Europe,"Holy See",Other
+2000,Europe,"Holy See",Undergraduate
+2000,Europe,Hungary,Graduate
+2000,Europe,Hungary,Other
+2000,Europe,Hungary,Undergraduate
+2000,Europe,Iceland,Graduate
+2000,Europe,Iceland,Other
+2000,Europe,Iceland,Undergraduate
+2000,Europe,Ireland,Graduate
+2000,Europe,Ireland,Other
+2000,Europe,Ireland,Undergraduate
+2000,Europe,Italy,Graduate
+2000,Europe,Italy,Other
+2000,Europe,Italy,Undergraduate
+2000,Europe,Kosovo,Graduate
+2000,Europe,Kosovo,Other
+2000,Europe,Kosovo,Undergraduate
+2000,Europe,Latvia,Graduate
+2000,Europe,Latvia,Other
+2000,Europe,Latvia,Undergraduate
+2000,Europe,Liechtenstein,Graduate
+2000,Europe,Liechtenstein,Other
+2000,Europe,Liechtenstein,Undergraduate
+2000,Europe,Lithuania,Graduate
+2000,Europe,Lithuania,Other
+2000,Europe,Lithuania,Undergraduate
+2000,Europe,Luxembourg,Graduate
+2000,Europe,Luxembourg,Other
+2000,Europe,Luxembourg,Undergraduate
+2000,Europe,Malta,Graduate
+2000,Europe,Malta,Other
+2000,Europe,Malta,Undergraduate
+2000,Europe,Moldova,Graduate
+2000,Europe,Moldova,Other
+2000,Europe,Moldova,Undergraduate
+2000,Europe,Monaco,Graduate
+2000,Europe,Monaco,Other
+2000,Europe,Monaco,Undergraduate
+2000,Europe,Netherlands,Graduate
+2000,Europe,Netherlands,Other
+2000,Europe,Netherlands,Undergraduate
+2000,Europe,"North Macedonia",Graduate
+2000,Europe,"North Macedonia",Other
+2000,Europe,"North Macedonia",Undergraduate
+2000,Europe,Norway,Graduate
+2000,Europe,Norway,Other
+2000,Europe,Norway,Undergraduate
+2000,Europe,Poland,Graduate
+2000,Europe,Poland,Other
+2000,Europe,Poland,Undergraduate
+2000,Europe,Portugal,Graduate
+2000,Europe,Portugal,Other
+2000,Europe,Portugal,Undergraduate
+2000,Europe,Romania,Graduate
+2000,Europe,Romania,Other
+2000,Europe,Romania,Undergraduate
+2000,Europe,Russia,Graduate
+2000,Europe,Russia,Other
+2000,Europe,Russia,Undergraduate
+2000,Europe,"San Marino",Graduate
+2000,Europe,"San Marino",Other
+2000,Europe,"San Marino",Undergraduate
+2000,Europe,"Serbia and Montenegro",Graduate
+2000,Europe,"Serbia and Montenegro",Other
+2000,Europe,"Serbia and Montenegro",Undergraduate
+2000,Europe,Slovakia,Graduate
+2000,Europe,Slovakia,Other
+2000,Europe,Slovakia,Undergraduate
+2000,Europe,Slovenia,Graduate
+2000,Europe,Slovenia,Other
+2000,Europe,Slovenia,Undergraduate
+2000,Europe,Spain,Graduate
+2000,Europe,Spain,Other
+2000,Europe,Spain,Undergraduate
+2000,Europe,Sweden,Graduate
+2000,Europe,Sweden,Other
+2000,Europe,Sweden,Undergraduate
+2000,Europe,Switzerland,Graduate
+2000,Europe,Switzerland,Other
+2000,Europe,Switzerland,Undergraduate
+2000,Europe,Turkey,Graduate
+2000,Europe,Turkey,Other
+2000,Europe,Turkey,Undergraduate
+2000,Europe,"U.S.S.R., Former",Graduate
+2000,Europe,"U.S.S.R., Former",Other
+2000,Europe,"U.S.S.R., Former",Undergraduate
+2000,Europe,Ukraine,Graduate
+2000,Europe,Ukraine,Other
+2000,Europe,Ukraine,Undergraduate
+2000,Europe,"United Kingdom",Graduate
+2000,Europe,"United Kingdom",Other
+2000,Europe,"United Kingdom",Undergraduate
+2000,Europe,"Yugoslavia, Former",Graduate
+2000,Europe,"Yugoslavia, Former",Other
+2000,Europe,"Yugoslavia, Former",Undergraduate
+2000,"Latin America and Caribbean","Latin America and Caribbean, Unspecified",Graduate
+2000,"Latin America and Caribbean","Latin America and Caribbean, Unspecified",Other
+2000,"Latin America and Caribbean","Latin America and Caribbean, Unspecified",Undergraduate
+2000,"Mexico and Central America",Belize,Graduate
+2000,"Mexico and Central America",Belize,Other
+2000,"Mexico and Central America",Belize,Undergraduate
+2000,"Mexico and Central America","Costa Rica",Graduate
+2000,"Mexico and Central America","Costa Rica",Other
+2000,"Mexico and Central America","Costa Rica",Undergraduate
+2000,"Mexico and Central America","El Salvador",Graduate
+2000,"Mexico and Central America","El Salvador",Other
+2000,"Mexico and Central America","El Salvador",Undergraduate
+2000,"Mexico and Central America",Guatemala,Graduate
+2000,"Mexico and Central America",Guatemala,Other
+2000,"Mexico and Central America",Guatemala,Undergraduate
+2000,"Mexico and Central America",Honduras,Graduate
+2000,"Mexico and Central America",Honduras,Other
+2000,"Mexico and Central America",Honduras,Undergraduate
+2000,"Mexico and Central America",Mexico,Graduate
+2000,"Mexico and Central America",Mexico,Other
+2000,"Mexico and Central America",Mexico,Undergraduate
+2000,"Mexico and Central America","Mexico and Central America, Unspecified",Graduate
+2000,"Mexico and Central America","Mexico and Central America, Unspecified",Other
+2000,"Mexico and Central America","Mexico and Central America, Unspecified",Undergraduate
+2000,"Mexico and Central America",Nicaragua,Graduate
+2000,"Mexico and Central America",Nicaragua,Other
+2000,"Mexico and Central America",Nicaragua,Undergraduate
+2000,"Mexico and Central America",Panama,Graduate
+2000,"Mexico and Central America",Panama,Other
+2000,"Mexico and Central America",Panama,Undergraduate
+2000,"Middle East",Bahrain,Graduate
+2000,"Middle East",Bahrain,Other
+2000,"Middle East",Bahrain,Undergraduate
+2000,"Middle East",Iran,Graduate
+2000,"Middle East",Iran,Other
+2000,"Middle East",Iran,Undergraduate
+2000,"Middle East",Iraq,Graduate
+2000,"Middle East",Iraq,Other
+2000,"Middle East",Iraq,Undergraduate
+2000,"Middle East",Israel,Graduate
+2000,"Middle East",Israel,Other
+2000,"Middle East",Israel,Undergraduate
+2000,"Middle East",Jordan,Graduate
+2000,"Middle East",Jordan,Other
+2000,"Middle East",Jordan,Undergraduate
+2000,"Middle East",Kuwait,Graduate
+2000,"Middle East",Kuwait,Other
+2000,"Middle East",Kuwait,Undergraduate
+2000,"Middle East",Lebanon,Graduate
+2000,"Middle East",Lebanon,Other
+2000,"Middle East",Lebanon,Undergraduate
+2000,"Middle East","Middle East, Unspecified",Graduate
+2000,"Middle East","Middle East, Unspecified",Other
+2000,"Middle East","Middle East, Unspecified",Undergraduate
+2000,"Middle East",Oman,Graduate
+2000,"Middle East",Oman,Other
+2000,"Middle East",Oman,Undergraduate
+2000,"Middle East","Palestinian Territories",Graduate
+2000,"Middle East","Palestinian Territories",Other
+2000,"Middle East","Palestinian Territories",Undergraduate
+2000,"Middle East",Qatar,Graduate
+2000,"Middle East",Qatar,Other
+2000,"Middle East",Qatar,Undergraduate
+2000,"Middle East","Saudi Arabia",Graduate
+2000,"Middle East","Saudi Arabia",Other
+2000,"Middle East","Saudi Arabia",Undergraduate
+2000,"Middle East",Syria,Graduate
+2000,"Middle East",Syria,Other
+2000,"Middle East",Syria,Undergraduate
+2000,"Middle East","United Arab Emirates",Graduate
+2000,"Middle East","United Arab Emirates",Other
+2000,"Middle East","United Arab Emirates",Undergraduate
+2000,"Middle East",Yemen,Graduate
+2000,"Middle East",Yemen,Other
+2000,"Middle East",Yemen,Undergraduate
+2000,"North Africa",Algeria,Graduate
+2000,"North Africa",Algeria,Other
+2000,"North Africa",Algeria,Undergraduate
+2000,"North Africa",Egypt,Graduate
+2000,"North Africa",Egypt,Other
+2000,"North Africa",Egypt,Undergraduate
+2000,"North Africa",Libya,Graduate
+2000,"North Africa",Libya,Other
+2000,"North Africa",Libya,Undergraduate
+2000,"North Africa",Morocco,Graduate
+2000,"North Africa",Morocco,Other
+2000,"North Africa",Morocco,Undergraduate
+2000,"North Africa","North Africa, Unspecified",Graduate
+2000,"North Africa","North Africa, Unspecified",Other
+2000,"North Africa","North Africa, Unspecified",Undergraduate
+2000,"North Africa",Tunisia,Graduate
+2000,"North Africa",Tunisia,Other
+2000,"North Africa",Tunisia,Undergraduate
+2000,"North Africa","Western Sahara",Graduate
+2000,"North Africa","Western Sahara",Other
+2000,"North Africa","Western Sahara",Undergraduate
+2000,"North America",Canada,Graduate
+2000,"North America",Canada,Other
+2000,"North America",Canada,Undergraduate
+2000,Oceania,Australia,Graduate
+2000,Oceania,Australia,Other
+2000,Oceania,Australia,Undergraduate
+2000,Oceania,"Cook Islands",Graduate
+2000,Oceania,"Cook Islands",Other
+2000,Oceania,"Cook Islands",Undergraduate
+2000,Oceania,Fiji,Graduate
+2000,Oceania,Fiji,Other
+2000,Oceania,Fiji,Undergraduate
+2000,Oceania,"French Polynesia",Graduate
+2000,Oceania,"French Polynesia",Other
+2000,Oceania,"French Polynesia",Undergraduate
+2000,Oceania,Kiribati,Graduate
+2000,Oceania,Kiribati,Other
+2000,Oceania,Kiribati,Undergraduate
+2000,Oceania,"Marshall Islands, Republic of the",Graduate
+2000,Oceania,"Marshall Islands, Republic of the",Other
+2000,Oceania,"Marshall Islands, Republic of the",Undergraduate
+2000,Oceania,"Micronesia, Federate States of ",Graduate
+2000,Oceania,"Micronesia, Federate States of ",Other
+2000,Oceania,"Micronesia, Federate States of ",Undergraduate
+2000,Oceania,Nauru,Graduate
+2000,Oceania,Nauru,Other
+2000,Oceania,Nauru,Undergraduate
+2000,Oceania,"New Caledonia",Graduate
+2000,Oceania,"New Caledonia",Other
+2000,Oceania,"New Caledonia",Undergraduate
+2000,Oceania,"New Zealand",Graduate
+2000,Oceania,"New Zealand",Other
+2000,Oceania,"New Zealand",Undergraduate
+2000,Oceania,Niue,Graduate
+2000,Oceania,Niue,Other
+2000,Oceania,Niue,Undergraduate
+2000,Oceania,"Norfolk Island",Graduate
+2000,Oceania,"Norfolk Island",Other
+2000,Oceania,"Norfolk Island",Undergraduate
+2000,Oceania,"Pacific Islands, Unspecified",Graduate
+2000,Oceania,"Pacific Islands, Unspecified",Other
+2000,Oceania,"Pacific Islands, Unspecified",Undergraduate
+2000,Oceania,Palau,Graduate
+2000,Oceania,Palau,Other
+2000,Oceania,Palau,Undergraduate
+2000,Oceania,"Papua New Guinea",Graduate
+2000,Oceania,"Papua New Guinea",Other
+2000,Oceania,"Papua New Guinea",Undergraduate
+2000,Oceania,Samoa,Graduate
+2000,Oceania,Samoa,Other
+2000,Oceania,Samoa,Undergraduate
+2000,Oceania,"Solomon Islands",Graduate
+2000,Oceania,"Solomon Islands",Other
+2000,Oceania,"Solomon Islands",Undergraduate
+2000,Oceania,Tonga,Graduate
+2000,Oceania,Tonga,Other
+2000,Oceania,Tonga,Undergraduate
+2000,Oceania,Tuvalu,Graduate
+2000,Oceania,Tuvalu,Other
+2000,Oceania,Tuvalu,Undergraduate
+2000,Oceania,Vanuatu,Graduate
+2000,Oceania,Vanuatu,Other
+2000,Oceania,Vanuatu,Undergraduate
+2000,Oceania,"Wallis and Futuna",Graduate
+2000,Oceania,"Wallis and Futuna",Other
+2000,Oceania,"Wallis and Futuna",Undergraduate
+2000,"South America",Argentina,Graduate
+2000,"South America",Argentina,Other
+2000,"South America",Argentina,Undergraduate
+2000,"South America",Bolivia,Graduate
+2000,"South America",Bolivia,Other
+2000,"South America",Bolivia,Undergraduate
+2000,"South America",Brazil,Graduate
+2000,"South America",Brazil,Other
+2000,"South America",Brazil,Undergraduate
+2000,"South America",Chile,Graduate
+2000,"South America",Chile,Other
+2000,"South America",Chile,Undergraduate
+2000,"South America",Colombia,Graduate
+2000,"South America",Colombia,Other
+2000,"South America",Colombia,Undergraduate
+2000,"South America",Ecuador,Graduate
+2000,"South America",Ecuador,Other
+2000,"South America",Ecuador,Undergraduate
+2000,"South America","Falkland Islands/Islas Malvinas",Graduate
+2000,"South America","Falkland Islands/Islas Malvinas",Other
+2000,"South America","Falkland Islands/Islas Malvinas",Undergraduate
+2000,"South America","French Guiana",Graduate
+2000,"South America","French Guiana",Other
+2000,"South America","French Guiana",Undergraduate
+2000,"South America",Guyana,Graduate
+2000,"South America",Guyana,Other
+2000,"South America",Guyana,Undergraduate
+2000,"South America",Paraguay,Graduate
+2000,"South America",Paraguay,Other
+2000,"South America",Paraguay,Undergraduate
+2000,"South America",Peru,Graduate
+2000,"South America",Peru,Other
+2000,"South America",Peru,Undergraduate
+2000,"South America","South America, Unspecified",Graduate
+2000,"South America","South America, Unspecified",Other
+2000,"South America","South America, Unspecified",Undergraduate
+2000,"South America",Suriname,Graduate
+2000,"South America",Suriname,Other
+2000,"South America",Suriname,Undergraduate
+2000,"South America",Uruguay,Graduate
+2000,"South America",Uruguay,Other
+2000,"South America",Uruguay,Undergraduate
+2000,"South America",Venezuela,Graduate
+2000,"South America",Venezuela,Other
+2000,"South America",Venezuela,Undergraduate
+2000,"South and Central Asia",Afghanistan,Graduate
+2000,"South and Central Asia",Afghanistan,Other
+2000,"South and Central Asia",Afghanistan,Undergraduate
+2000,"South and Central Asia",Bangladesh,Graduate
+2000,"South and Central Asia",Bangladesh,Other
+2000,"South and Central Asia",Bangladesh,Undergraduate
+2000,"South and Central Asia",Bhutan,Graduate
+2000,"South and Central Asia",Bhutan,Other
+2000,"South and Central Asia",Bhutan,Undergraduate
+2000,"South and Central Asia",India,Graduate
+2000,"South and Central Asia",India,Other
+2000,"South and Central Asia",India,Undergraduate
+2000,"South and Central Asia",Kazakhstan,Graduate
+2000,"South and Central Asia",Kazakhstan,Other
+2000,"South and Central Asia",Kazakhstan,Undergraduate
+2000,"South and Central Asia",Kyrgyzstan,Graduate
+2000,"South and Central Asia",Kyrgyzstan,Other
+2000,"South and Central Asia",Kyrgyzstan,Undergraduate
+2000,"South and Central Asia",Maldives,Graduate
+2000,"South and Central Asia",Maldives,Other
+2000,"South and Central Asia",Maldives,Undergraduate
+2000,"South and Central Asia",Nepal,Graduate
+2000,"South and Central Asia",Nepal,Other
+2000,"South and Central Asia",Nepal,Undergraduate
+2000,"South and Central Asia",Pakistan,Graduate
+2000,"South and Central Asia",Pakistan,Other
+2000,"South and Central Asia",Pakistan,Undergraduate
+2000,"South and Central Asia","South and Central Asia, Unspecified",Graduate
+2000,"South and Central Asia","South and Central Asia, Unspecified",Other
+2000,"South and Central Asia","South and Central Asia, Unspecified",Undergraduate
+2000,"South and Central Asia","Sri Lanka",Graduate
+2000,"South and Central Asia","Sri Lanka",Other
+2000,"South and Central Asia","Sri Lanka",Undergraduate
+2000,"South and Central Asia",Tajikistan,Graduate
+2000,"South and Central Asia",Tajikistan,Other
+2000,"South and Central Asia",Tajikistan,Undergraduate
+2000,"South and Central Asia",Turkmenistan,Graduate
+2000,"South and Central Asia",Turkmenistan,Other
+2000,"South and Central Asia",Turkmenistan,Undergraduate
+2000,"South and Central Asia",Uzbekistan,Graduate
+2000,"South and Central Asia",Uzbekistan,Other
+2000,"South and Central Asia",Uzbekistan,Undergraduate
+2000,"Southeast Asia",Brunei,Graduate
+2000,"Southeast Asia",Brunei,Other
+2000,"Southeast Asia",Brunei,Undergraduate
+2000,"Southeast Asia",Burma/Myanmar,Graduate
+2000,"Southeast Asia",Burma/Myanmar,Other
+2000,"Southeast Asia",Burma/Myanmar,Undergraduate
+2000,"Southeast Asia",Cambodia,Graduate
+2000,"Southeast Asia",Cambodia,Other
+2000,"Southeast Asia",Cambodia,Undergraduate
+2000,"Southeast Asia",Indonesia,Graduate
+2000,"Southeast Asia",Indonesia,Other
+2000,"Southeast Asia",Indonesia,Undergraduate
+2000,"Southeast Asia",Laos,Graduate
+2000,"Southeast Asia",Laos,Other
+2000,"Southeast Asia",Laos,Undergraduate
+2000,"Southeast Asia",Malaysia,Graduate
+2000,"Southeast Asia",Malaysia,Other
+2000,"Southeast Asia",Malaysia,Undergraduate
+2000,"Southeast Asia",Philippines,Graduate
+2000,"Southeast Asia",Philippines,Other
+2000,"Southeast Asia",Philippines,Undergraduate
+2000,"Southeast Asia",Singapore,Graduate
+2000,"Southeast Asia",Singapore,Other
+2000,"Southeast Asia",Singapore,Undergraduate
+2000,"Southeast Asia","Southeast Asia, Unspecified",Graduate
+2000,"Southeast Asia","Southeast Asia, Unspecified",Other
+2000,"Southeast Asia","Southeast Asia, Unspecified",Undergraduate
+2000,"Southeast Asia",Thailand,Graduate
+2000,"Southeast Asia",Thailand,Other
+2000,"Southeast Asia",Thailand,Undergraduate
+2000,"Southeast Asia",Vietnam,Graduate
+2000,"Southeast Asia",Vietnam,Other
+2000,"Southeast Asia",Vietnam,Undergraduate
+2000,"Southern Africa",Angola,Graduate
+2000,"Southern Africa",Angola,Other
+2000,"Southern Africa",Angola,Undergraduate
+2000,"Southern Africa",Botswana,Graduate
+2000,"Southern Africa",Botswana,Other
+2000,"Southern Africa",Botswana,Undergraduate
+2000,"Southern Africa",Comoros,Graduate
+2000,"Southern Africa",Comoros,Other
+2000,"Southern Africa",Comoros,Undergraduate
+2000,"Southern Africa",Eswatini,Graduate
+2000,"Southern Africa",Eswatini,Other
+2000,"Southern Africa",Eswatini,Undergraduate
+2000,"Southern Africa",Lesotho,Graduate
+2000,"Southern Africa",Lesotho,Other
+2000,"Southern Africa",Lesotho,Undergraduate
+2000,"Southern Africa",Madagascar,Graduate
+2000,"Southern Africa",Madagascar,Other
+2000,"Southern Africa",Madagascar,Undergraduate
+2000,"Southern Africa",Malawi,Graduate
+2000,"Southern Africa",Malawi,Other
+2000,"Southern Africa",Malawi,Undergraduate
+2000,"Southern Africa",Mauritius,Graduate
+2000,"Southern Africa",Mauritius,Other
+2000,"Southern Africa",Mauritius,Undergraduate
+2000,"Southern Africa",Mozambique,Graduate
+2000,"Southern Africa",Mozambique,Other
+2000,"Southern Africa",Mozambique,Undergraduate
+2000,"Southern Africa",Namibia,Graduate
+2000,"Southern Africa",Namibia,Other
+2000,"Southern Africa",Namibia,Undergraduate
+2000,"Southern Africa",Reunion,Graduate
+2000,"Southern Africa",Reunion,Other
+2000,"Southern Africa",Reunion,Undergraduate
+2000,"Southern Africa","South Africa",Graduate
+2000,"Southern Africa","South Africa",Other
+2000,"Southern Africa","South Africa",Undergraduate
+2000,"Southern Africa","Southern Africa, Unspecified",Graduate
+2000,"Southern Africa","Southern Africa, Unspecified",Other
+2000,"Southern Africa","Southern Africa, Unspecified",Undergraduate
+2000,"Southern Africa",Zambia,Graduate
+2000,"Southern Africa",Zambia,Other
+2000,"Southern Africa",Zambia,Undergraduate
+2000,"Southern Africa",Zimbabwe,Graduate
+2000,"Southern Africa",Zimbabwe,Other
+2000,"Southern Africa",Zimbabwe,Undergraduate
+2000,Stateless,Stateless,Graduate
+2000,Stateless,Stateless,Other
+2000,Stateless,Stateless,Undergraduate
+2000,"West Africa",Benin,Graduate
+2000,"West Africa",Benin,Other
+2000,"West Africa",Benin,Undergraduate
+2000,"West Africa","Burkina Faso",Graduate
+2000,"West Africa","Burkina Faso",Other
+2000,"West Africa","Burkina Faso",Undergraduate
+2000,"West Africa","Cabo Verde",Graduate
+2000,"West Africa","Cabo Verde",Other
+2000,"West Africa","Cabo Verde",Undergraduate
+2000,"West Africa","CÃ´te dâ€™Ivoire",Graduate
+2000,"West Africa","CÃ´te dâ€™Ivoire",Other
+2000,"West Africa","CÃ´te dâ€™Ivoire",Undergraduate
+2000,"West Africa","Gambia, The",Graduate
+2000,"West Africa","Gambia, The",Other
+2000,"West Africa","Gambia, The",Undergraduate
+2000,"West Africa",Ghana,Graduate
+2000,"West Africa",Ghana,Other
+2000,"West Africa",Ghana,Undergraduate
+2000,"West Africa",Guinea,Graduate
+2000,"West Africa",Guinea,Other
+2000,"West Africa",Guinea,Undergraduate
+2000,"West Africa",GuineaBissau,Graduate
+2000,"West Africa",GuineaBissau,Other
+2000,"West Africa",GuineaBissau,Undergraduate
+2000,"West Africa",Liberia,Graduate
+2000,"West Africa",Liberia,Other
+2000,"West Africa",Liberia,Undergraduate
+2000,"West Africa",Mali,Graduate
+2000,"West Africa",Mali,Other
+2000,"West Africa",Mali,Undergraduate
+2000,"West Africa",Mauritania,Graduate
+2000,"West Africa",Mauritania,Other
+2000,"West Africa",Mauritania,Undergraduate
+2000,"West Africa",Niger,Graduate
+2000,"West Africa",Niger,Other
+2000,"West Africa",Niger,Undergraduate
+2000,"West Africa",Nigeria,Graduate
+2000,"West Africa",Nigeria,Other
+2000,"West Africa",Nigeria,Undergraduate
+2000,"West Africa","Saint Helena",Graduate
+2000,"West Africa","Saint Helena",Other
+2000,"West Africa","Saint Helena",Undergraduate
+2000,"West Africa",Senegal,Graduate
+2000,"West Africa",Senegal,Other
+2000,"West Africa",Senegal,Undergraduate
+2000,"West Africa","Sierra Leone",Graduate
+2000,"West Africa","Sierra Leone",Other
+2000,"West Africa","Sierra Leone",Undergraduate
+2000,"West Africa",Togo,Graduate
+2000,"West Africa",Togo,Other
+2000,"West Africa",Togo,Undergraduate
+2000,"West Africa","West Africa, Unspecified",Graduate
+2000,"West Africa","West Africa, Unspecified",Other
+2000,"West Africa","West Africa, Unspecified",Undergraduate
+2001,"Africa, Subsaharan","Africa, Subsaharan, Unspecified",Graduate
+2001,"Africa, Subsaharan","Africa, Subsaharan, Unspecified",Other
+2001,"Africa, Subsaharan","Africa, Subsaharan, Unspecified",Undergraduate
+2001,Asia,"Asia, Unspecified",Graduate
+2001,Asia,"Asia, Unspecified",Other
+2001,Asia,"Asia, Unspecified",Undergraduate
+2001,Caribbean,Anguilla,Graduate
+2001,Caribbean,Anguilla,Other
+2001,Caribbean,Anguilla,Undergraduate
+2001,Caribbean,"Antigua and Barbuda",Graduate
+2001,Caribbean,"Antigua and Barbuda",Other
+2001,Caribbean,"Antigua and Barbuda",Undergraduate
+2001,Caribbean,Aruba,Graduate
+2001,Caribbean,Aruba,Other
+2001,Caribbean,Aruba,Undergraduate
+2001,Caribbean,Bahamas,Graduate
+2001,Caribbean,Bahamas,Other
+2001,Caribbean,Bahamas,Undergraduate
+2001,Caribbean,Barbados,Graduate
+2001,Caribbean,Barbados,Other
+2001,Caribbean,Barbados,Undergraduate
+2001,Caribbean,Bermuda,Graduate
+2001,Caribbean,Bermuda,Other
+2001,Caribbean,Bermuda,Undergraduate
+2001,Caribbean,"British Virgin Islands",Graduate
+2001,Caribbean,"British Virgin Islands",Other
+2001,Caribbean,"British Virgin Islands",Undergraduate
+2001,Caribbean,"Caribbean, Unspecified",Graduate
+2001,Caribbean,"Caribbean, Unspecified",Other
+2001,Caribbean,"Caribbean, Unspecified",Undergraduate
+2001,Caribbean,"Cayman Islands",Graduate
+2001,Caribbean,"Cayman Islands",Other
+2001,Caribbean,"Cayman Islands",Undergraduate
+2001,Caribbean,Cuba,Graduate
+2001,Caribbean,Cuba,Other
+2001,Caribbean,Cuba,Undergraduate
+2001,Caribbean,Dominica,Graduate
+2001,Caribbean,Dominica,Other
+2001,Caribbean,Dominica,Undergraduate
+2001,Caribbean,"Dominican Republic",Graduate
+2001,Caribbean,"Dominican Republic",Other
+2001,Caribbean,"Dominican Republic",Undergraduate
+2001,Caribbean,Grenada,Graduate
+2001,Caribbean,Grenada,Other
+2001,Caribbean,Grenada,Undergraduate
+2001,Caribbean,Guadeloupe,Graduate
+2001,Caribbean,Guadeloupe,Other
+2001,Caribbean,Guadeloupe,Undergraduate
+2001,Caribbean,Haiti,Graduate
+2001,Caribbean,Haiti,Other
+2001,Caribbean,Haiti,Undergraduate
+2001,Caribbean,Jamaica,Graduate
+2001,Caribbean,Jamaica,Other
+2001,Caribbean,Jamaica,Undergraduate
+2001,Caribbean,Martinique,Graduate
+2001,Caribbean,Martinique,Other
+2001,Caribbean,Martinique,Undergraduate
+2001,Caribbean,Montserrat,Graduate
+2001,Caribbean,Montserrat,Other
+2001,Caribbean,Montserrat,Undergraduate
+2001,Caribbean,"Netherlands Antilles",Graduate
+2001,Caribbean,"Netherlands Antilles",Other
+2001,Caribbean,"Netherlands Antilles",Undergraduate
+2001,Caribbean,"St. Kitts and Nevis",Graduate
+2001,Caribbean,"St. Kitts and Nevis",Other
+2001,Caribbean,"St. Kitts and Nevis",Undergraduate
+2001,Caribbean,"St. Lucia",Graduate
+2001,Caribbean,"St. Lucia",Other
+2001,Caribbean,"St. Lucia",Undergraduate
+2001,Caribbean,"St. Vincent and the Grenadines",Graduate
+2001,Caribbean,"St. Vincent and the Grenadines",Other
+2001,Caribbean,"St. Vincent and the Grenadines",Undergraduate
+2001,Caribbean,"Trinidad and Tobago",Graduate
+2001,Caribbean,"Trinidad and Tobago",Other
+2001,Caribbean,"Trinidad and Tobago",Undergraduate
+2001,Caribbean,"Turks and Caicos",Graduate
+2001,Caribbean,"Turks and Caicos",Other
+2001,Caribbean,"Turks and Caicos",Undergraduate
+2001,"Central Africa",Cameroon,Graduate
+2001,"Central Africa",Cameroon,Other
+2001,"Central Africa",Cameroon,Undergraduate
+2001,"Central Africa","Central Africa, Unspecified",Graduate
+2001,"Central Africa","Central Africa, Unspecified",Other
+2001,"Central Africa","Central Africa, Unspecified",Undergraduate
+2001,"Central Africa","Central African Republic",Graduate
+2001,"Central Africa","Central African Republic",Other
+2001,"Central Africa","Central African Republic",Undergraduate
+2001,"Central Africa",Chad,Graduate
+2001,"Central Africa",Chad,Other
+2001,"Central Africa",Chad,Undergraduate
+2001,"Central Africa","Congo, Dem. Rep. of the (Kinshasa)",Graduate
+2001,"Central Africa","Congo, Dem. Rep. of the (Kinshasa)",Other
+2001,"Central Africa","Congo, Dem. Rep. of the (Kinshasa)",Undergraduate
+2001,"Central Africa","Congo, Republic of the (Brazzaville)",Graduate
+2001,"Central Africa","Congo, Republic of the (Brazzaville)",Other
+2001,"Central Africa","Congo, Republic of the (Brazzaville)",Undergraduate
+2001,"Central Africa","Equatorial Guinea",Graduate
+2001,"Central Africa","Equatorial Guinea",Other
+2001,"Central Africa","Equatorial Guinea",Undergraduate
+2001,"Central Africa",Gabon,Graduate
+2001,"Central Africa",Gabon,Other
+2001,"Central Africa",Gabon,Undergraduate
+2001,"Central Africa","SÃ£o TomÃ© and PrÃ­ncipe",Graduate
+2001,"Central Africa","SÃ£o TomÃ© and PrÃ­ncipe",Other
+2001,"Central Africa","SÃ£o TomÃ© and PrÃ­ncipe",Undergraduate
+2001,"East Africa",Burundi,Graduate
+2001,"East Africa",Burundi,Other
+2001,"East Africa",Burundi,Undergraduate
+2001,"East Africa",Djibouti,Graduate
+2001,"East Africa",Djibouti,Other
+2001,"East Africa",Djibouti,Undergraduate
+2001,"East Africa","East Africa, Unspecified",Graduate
+2001,"East Africa","East Africa, Unspecified",Other
+2001,"East Africa","East Africa, Unspecified",Undergraduate
+2001,"East Africa",Eritrea,Graduate
+2001,"East Africa",Eritrea,Other
+2001,"East Africa",Eritrea,Undergraduate
+2001,"East Africa",Ethiopia,Graduate
+2001,"East Africa",Ethiopia,Other
+2001,"East Africa",Ethiopia,Undergraduate
+2001,"East Africa",Kenya,Graduate
+2001,"East Africa",Kenya,Other
+2001,"East Africa",Kenya,Undergraduate
+2001,"East Africa",Rwanda,Graduate
+2001,"East Africa",Rwanda,Other
+2001,"East Africa",Rwanda,Undergraduate
+2001,"East Africa",Seychelles,Graduate
+2001,"East Africa",Seychelles,Other
+2001,"East Africa",Seychelles,Undergraduate
+2001,"East Africa",Somalia,Graduate
+2001,"East Africa",Somalia,Other
+2001,"East Africa",Somalia,Undergraduate
+2001,"East Africa",Sudan,Graduate
+2001,"East Africa",Sudan,Other
+2001,"East Africa",Sudan,Undergraduate
+2001,"East Africa",Tanzania,Graduate
+2001,"East Africa",Tanzania,Other
+2001,"East Africa",Tanzania,Undergraduate
+2001,"East Africa",Uganda,Graduate
+2001,"East Africa",Uganda,Other
+2001,"East Africa",Uganda,Undergraduate
+2001,"East Asia",China,Graduate
+2001,"East Asia",China,Other
+2001,"East Asia",China,Undergraduate
+2001,"East Asia","East Asia, Unspecified",Graduate
+2001,"East Asia","East Asia, Unspecified",Other
+2001,"East Asia","East Asia, Unspecified",Undergraduate
+2001,"East Asia","Hong Kong",Graduate
+2001,"East Asia","Hong Kong",Other
+2001,"East Asia","Hong Kong",Undergraduate
+2001,"East Asia",Japan,Graduate
+2001,"East Asia",Japan,Other
+2001,"East Asia",Japan,Undergraduate
+2001,"East Asia",Macau,Graduate
+2001,"East Asia",Macau,Other
+2001,"East Asia",Macau,Undergraduate
+2001,"East Asia",Mongolia,Graduate
+2001,"East Asia",Mongolia,Other
+2001,"East Asia",Mongolia,Undergraduate
+2001,"East Asia","North Korea",Graduate
+2001,"East Asia","North Korea",Other
+2001,"East Asia","North Korea",Undergraduate
+2001,"East Asia","South Korea",Graduate
+2001,"East Asia","South Korea",Other
+2001,"East Asia","South Korea",Undergraduate
+2001,"East Asia",Taiwan,Graduate
+2001,"East Asia",Taiwan,Other
+2001,"East Asia",Taiwan,Undergraduate
+2001,Europe,Albania,Graduate
+2001,Europe,Albania,Other
+2001,Europe,Albania,Undergraduate
+2001,Europe,Andorra,Graduate
+2001,Europe,Andorra,Other
+2001,Europe,Andorra,Undergraduate
+2001,Europe,Armenia,Graduate
+2001,Europe,Armenia,Other
+2001,Europe,Armenia,Undergraduate
+2001,Europe,Austria,Graduate
+2001,Europe,Austria,Other
+2001,Europe,Austria,Undergraduate
+2001,Europe,Azerbaijan,Graduate
+2001,Europe,Azerbaijan,Other
+2001,Europe,Azerbaijan,Undergraduate
+2001,Europe,Belarus,Graduate
+2001,Europe,Belarus,Other
+2001,Europe,Belarus,Undergraduate
+2001,Europe,Belgium,Graduate
+2001,Europe,Belgium,Other
+2001,Europe,Belgium,Undergraduate
+2001,Europe,"Bosnia and Herzegovina",Graduate
+2001,Europe,"Bosnia and Herzegovina",Other
+2001,Europe,"Bosnia and Herzegovina",Undergraduate
+2001,Europe,Bulgaria,Graduate
+2001,Europe,Bulgaria,Other
+2001,Europe,Bulgaria,Undergraduate
+2001,Europe,Croatia,Graduate
+2001,Europe,Croatia,Other
+2001,Europe,Croatia,Undergraduate
+2001,Europe,Cyprus,Graduate
+2001,Europe,Cyprus,Other
+2001,Europe,Cyprus,Undergraduate
+2001,Europe,"Czechia/Czech Republic",Graduate
+2001,Europe,"Czechia/Czech Republic",Other
+2001,Europe,"Czechia/Czech Republic",Undergraduate
+2001,Europe,"Czechoslovakia, Former",Graduate
+2001,Europe,"Czechoslovakia, Former",Other
+2001,Europe,"Czechoslovakia, Former",Undergraduate
+2001,Europe,Denmark,Graduate
+2001,Europe,Denmark,Other
+2001,Europe,Denmark,Undergraduate
+2001,Europe,Estonia,Graduate
+2001,Europe,Estonia,Other
+2001,Europe,Estonia,Undergraduate
+2001,Europe,"Europe, Unspecified",Graduate
+2001,Europe,"Europe, Unspecified",Other
+2001,Europe,"Europe, Unspecified",Undergraduate
+2001,Europe,Finland,Graduate
+2001,Europe,Finland,Other
+2001,Europe,Finland,Undergraduate
+2001,Europe,France,Graduate
+2001,Europe,France,Other
+2001,Europe,France,Undergraduate
+2001,Europe,Georgia,Graduate
+2001,Europe,Georgia,Other
+2001,Europe,Georgia,Undergraduate
+2001,Europe,Germany,Graduate
+2001,Europe,Germany,Other
+2001,Europe,Germany,Undergraduate
+2001,Europe,Gibraltar,Graduate
+2001,Europe,Gibraltar,Other
+2001,Europe,Gibraltar,Undergraduate
+2001,Europe,Greece,Graduate
+2001,Europe,Greece,Other
+2001,Europe,Greece,Undergraduate
+2001,Europe,"Holy See",Graduate
+2001,Europe,"Holy See",Other
+2001,Europe,"Holy See",Undergraduate
+2001,Europe,Hungary,Graduate
+2001,Europe,Hungary,Other
+2001,Europe,Hungary,Undergraduate
+2001,Europe,Iceland,Graduate
+2001,Europe,Iceland,Other
+2001,Europe,Iceland,Undergraduate
+2001,Europe,Ireland,Graduate
+2001,Europe,Ireland,Other
+2001,Europe,Ireland,Undergraduate
+2001,Europe,Italy,Graduate
+2001,Europe,Italy,Other
+2001,Europe,Italy,Undergraduate
+2001,Europe,Kosovo,Graduate
+2001,Europe,Kosovo,Other
+2001,Europe,Kosovo,Undergraduate
+2001,Europe,Latvia,Graduate
+2001,Europe,Latvia,Other
+2001,Europe,Latvia,Undergraduate
+2001,Europe,Liechtenstein,Graduate
+2001,Europe,Liechtenstein,Other
+2001,Europe,Liechtenstein,Undergraduate
+2001,Europe,Lithuania,Graduate
+2001,Europe,Lithuania,Other
+2001,Europe,Lithuania,Undergraduate
+2001,Europe,Luxembourg,Graduate
+2001,Europe,Luxembourg,Other
+2001,Europe,Luxembourg,Undergraduate
+2001,Europe,Malta,Graduate
+2001,Europe,Malta,Other
+2001,Europe,Malta,Undergraduate
+2001,Europe,Moldova,Graduate
+2001,Europe,Moldova,Other
+2001,Europe,Moldova,Undergraduate
+2001,Europe,Monaco,Graduate
+2001,Europe,Monaco,Other
+2001,Europe,Monaco,Undergraduate
+2001,Europe,Netherlands,Graduate
+2001,Europe,Netherlands,Other
+2001,Europe,Netherlands,Undergraduate
+2001,Europe,"North Macedonia",Graduate
+2001,Europe,"North Macedonia",Other
+2001,Europe,"North Macedonia",Undergraduate
+2001,Europe,Norway,Graduate
+2001,Europe,Norway,Other
+2001,Europe,Norway,Undergraduate
+2001,Europe,Poland,Graduate
+2001,Europe,Poland,Other
+2001,Europe,Poland,Undergraduate
+2001,Europe,Portugal,Graduate
